@@ -11,4 +11,8 @@ Git is free sofrware distributed under the GPL.
 Git has a mutable index called stage.
 add another line
 add agine and agine!
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feture1
