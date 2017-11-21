@@ -6,3 +6,6 @@ Git tracks changes.
 Git tracks changes.
 add one line
 Git tracks changes.
+Gitt is a distrubuted version control system.
+Git is free sofrware distributed under the GPL.
+Git has a mutable index called stage.

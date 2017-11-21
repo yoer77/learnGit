@@ -1,2 +1,6 @@
 @author yoer77
 @email yoer77@gmail.com
+@para args 默认参数
+public static void main(String[] args) {
+    System.out.println("hello")
+}
